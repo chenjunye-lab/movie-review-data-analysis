@@ -15,7 +15,7 @@ Specifically:
 *   To prevent de-anonymization through search engines, the textual content has been intentionally truncated, and specific entity names have been replaced. This sample is solely for format demonstration, not for reproducing the full empirical results.
 
 ## 3. Data Collection Methodology (The "Script")
-The data was collected using the visual web scraping tool **Octoparse**. 
+The data was collected using the visual web scraping tool **Octopus**. 
 *Note: Since the local task cache was cleared after extraction, the original configuration file is unavailable. To ensure reproducibility, we provide the reconstructed extraction logic below:*
 
 *   **Target:** Douban reviews for the film "The Lychee Road".
