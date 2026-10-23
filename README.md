@@ -14,7 +14,7 @@ Specifically:
 *   Review titles have been fully anonymized (e.g., `Title 1`).
 *   To prevent de-anonymization through search engines, the textual content has been intentionally truncated, and specific entity names have been replaced. This sample is solely for format demonstration, not for reproducing the full empirical results.
 
-## 3. Data Collection Methodology (The "Script")
+## 3. Data Collection Methodology
 The data was collected using the visual web scraping tool **Octopus**. 
 *Note: Since the local task cache was cleared after extraction, the original configuration file is unavailable. To ensure reproducibility, we provide the reconstructed extraction logic below:*
 
@@ -23,7 +23,7 @@ The data was collected using the visual web scraping tool **Octopus**.
 *   **Pagination Logic:** Auto-clicking the "Next Page" button sequentially.
 *   **Post-processing:** Removed duplicates, dropped empty reviews.
 
-## 4. Data Analysis Code (The Code)
+## 4. Data Analysis Code
 The analysis was conducted using **Python**. The script (`analysis.py`) contains the full pipeline for data cleaning, natural language processing (NLP), and visualization. 
 
 Key processing steps include:
