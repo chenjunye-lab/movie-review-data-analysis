@@ -1,4 +1,4 @@
-# The Making of Reflexive Cultural Confidence: History as Contemporary Critique in the Chinese Film Industry"
+# The Making of Reflexive Cultural Confidence: History as Contemporary Critique in the Chinese Film Industry
 
 ## 1. Project Overview
 This repository contains the data collection protocol and the data processing code for the paper: **"The Making of Reflexive Cultural Confidence: History as Contemporary Critique in the Chinese Film Industry"**. 
